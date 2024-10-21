@@ -132,3 +132,19 @@ footer {
         font-size: 1rem;
     }
 }
+.gsc-input {
+            width: 200px; /* Ändere die Breite nach Bedarf */
+            height: 30px; /* Ändere die Höhe nach Bedarf */
+            font-size: 14px; /* Schriftgröße anpassen */
+        }
+        
+        /* Optional: Setze die Breite und das Aussehen des Suchbuttons */
+        .gsc-search-button {
+            height: 30px; /* Höhe des Suchbuttons anpassen */
+            font-size: 14px; /* Schriftgröße anpassen */
+        }
+        
+        /* Optional: Verstecke die Standard-Autocomplete-Funktion */
+        .gsc-autocomplete {
+            display: none; /* Versteckt die Autocomplete-Liste */
+        }
